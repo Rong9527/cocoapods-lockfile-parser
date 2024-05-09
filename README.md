@@ -1,6 +1,7 @@
 ## cocoapods-lockfile-parser
 #### 本工具用于将podlock文件按依赖层级解析生成excel。
 使用场景：组件需要大版本更新时，需要按依赖关系进行更新。
+
 使用方式：
 1. 在config.js中设置podlock文件路径
 2. 在工程目录下执行node index
