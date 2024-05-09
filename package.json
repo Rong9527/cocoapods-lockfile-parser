@@ -1,0 +1,21 @@
+{
+  "name": "pods_lockfile_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cocoapods",
+    "lockfile"
+  ],
+  "author": "Rong",
+  "license": "MIT",
+  "dependencies": {
+    "1.0.2": "^1.0.0",
+    "js-yaml": "^4.1.0",
+    "node-xlsx": "^0.21.0",
+    "request": "^2.88.2"
+  }
+}
