@@ -4,4 +4,4 @@
 2. 在工程目录下执行node index
 3. result.xlsx即为生成的excel文件
 
-![组件依赖关系](https://github.com/Rong9527/cocoapods-lockfile-parser/assets/108946143/105445ce-64f8-4dca-9ae6-f61d29ef2d6b =300x300)
+![组件依赖关系](https://github.com/Rong9527/cocoapods-lockfile-parser/assets/108946143/105445ce-64f8-4dca-9ae6-f61d29ef2d6b)
